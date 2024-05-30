@@ -21,6 +21,9 @@ const Project = () => {
 					<div className="project-details__desc">
 						<p>Skills: {project.skills}</p>
 					</div>
+					<div className="project-details__desc">
+						{project.projectLink ? <a target="blank"  href={project.projectLink}>ProjectLink</a> : '' }	
+					</div>
 
 					{project.gitHubLink && (
 						<BtnGitHub link={project.gitHubLink} />

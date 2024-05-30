@@ -23,6 +23,7 @@ const projects = [
 		img: project01,
 		imgBig: project01Big,
 		gitHubLink: 'https://github.com/VladShcherbina/third-react',
+		projectLink: 'https://vladshcherbina.github.io/third-react/'
 	},
 	{
 		title: 'React-pizza',
@@ -44,6 +45,7 @@ const projects = [
 		imgBig: project04Big,
 		skills: 'React',
 		gitHubLink: 'https://github.com/VladShcherbina/4-react',
+		projectLink: 'https://vladshcherbina.github.io/4-react/'
 	},
 	{
 		title: 'Сalculator',
