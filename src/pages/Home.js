@@ -11,7 +11,7 @@ const Home = () => {
 							<h2 className="title-2">Frontend skills</h2>
 							<p>
 								JavaScript, TypeScript, ReactJS, Redux Toolkit,
-								HTML, CSS
+								HTML, CSS, SCSS
 							</p>
 						</li>
 					</ul>
