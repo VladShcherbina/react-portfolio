@@ -31,6 +31,7 @@ const projects = [
 		imgBig: project02Big,
 		skills: 'React, Redux Toolkit, TypeScript',
 		gitHubLink: 'https://github.com/VladShcherbina/react-pizza',
+		projectLink: 'https://vladshcherbina.github.io/react-pizza/'
 	},
 	{
 		title: 'React-news',
@@ -38,6 +39,7 @@ const projects = [
 		imgBig: project03Big,
 		skills: 'React, JS',
 		gitHubLink: 'https://github.com/VladShcherbina/react-news',
+		projectLink: 'https://vladshcherbina.github.io/react-news/'
 	},
 	{
 		title: 'ContactList',
@@ -53,6 +55,7 @@ const projects = [
 		imgBig: project05Big,
 		skills: 'HTML, CSS, JS',
 		gitHubLink: 'https://github.com/VladShcherbina/JS_Home/tree/js_shax',
+		projectLink: 'https://vladshcherbina.github.io/JS_Home/',
 	},
 	{
 		title: 'HTML/CSS',
@@ -60,6 +63,7 @@ const projects = [
 		imgBig: project06Big,
 		skills: 'HTML, CSS',
 		gitHubLink: 'https://github.com/VladShcherbina/Lesson11',
+		projectLink: 'https://vladshcherbina.github.io/Lesson11.github.io/',
 	},
 ];
 
