@@ -14,7 +14,9 @@ import project05 from "./../img/projects/05.jpg";
 import project05Big from "./../img/projects/05-big.jpg";
 
 import project06 from "./../img/projects/06.jpg";
-import project06Big from "./../img/projects/06-big.jpg";
+
+
+
 
 const projects = [
 	{
@@ -58,13 +60,13 @@ const projects = [
 		projectLink: 'https://vladshcherbina.github.io/JS_Home/',
 	},
 	{
-		title: 'HTML/CSS',
+		title: 'HTML/CSS/JS Форма с отправкой на телеграм бота',
 		img: project06,
-		imgBig: project06Big,
+		imgBig: project06,
 		skills: 'HTML, CSS',
-		gitHubLink: 'https://github.com/VladShcherbina/Lesson11',
-		projectLink: 'https://vladshcherbina.github.io/Lesson11.github.io/',
+		gitHubLink: 'https://github.com/VladShcherbina/TestRGB',
 	},
+	
 ];
 
 export {projects}
